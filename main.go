@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "nats-streaming-cli/cmd"
+import "github.com/sourabp/nats-streaming-cli/cmd"
 
 func main() {
 	cmd.Execute()
